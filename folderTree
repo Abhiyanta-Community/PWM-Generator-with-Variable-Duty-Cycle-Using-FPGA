@@ -1,0 +1,21 @@
+./
+├── Task_3_1
+│      │
+│      ├── Task_3.1_A             #files of Universal Shift Register like verilog code, compilation report from the quartus tool, waveforms, block diagram and rtl view.
+│      │
+│      └── Task_3.1_B             #files of Synchronous up counter using J,K flip flop(MOD 14) like verilog code, compilation report from the quartus tool, waveforms, block diagram and rtl view.
+│
+├── Task3_2
+│      │
+│      └── PWM Variation of 5%     #PWM generator project with variation facility of duty cycle.
+│
+│
+└── Task3_3
+        │
+        ├── PWM Variation of 5%    #PWM generator project with variation facility of duty cycle.
+        │
+        └── PWM                    #modelsim for testbench is added.
+        
+
+
+
