@@ -1,0 +1,65 @@
+|mod14_JK
+w => j0.IN2
+q0 <= JK_FF:comb_7.port4
+q1 <= JK_FF:comb_11.port4
+q2 <= JK_FF:comb_15.port4
+q3 <= JK_FF:comb_19.port4
+clk => clk~0.IN4
+
+
+|mod14_JK|JK_FF:comb_7
+J => always0~2.IN0
+J => always0~3.IN0
+J => always0~1.IN0
+J => always0~0.IN0
+K => always0~1.IN1
+K => always0~3.IN1
+K => always0~2.IN1
+K => always0~0.IN1
+clk => OUT~reg0.CLK
+clear => OUT~4.OUTPUTSELECT
+OUT <= OUT~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mod14_JK|JK_FF:comb_11
+J => always0~2.IN0
+J => always0~3.IN0
+J => always0~1.IN0
+J => always0~0.IN0
+K => always0~1.IN1
+K => always0~3.IN1
+K => always0~2.IN1
+K => always0~0.IN1
+clk => OUT~reg0.CLK
+clear => OUT~4.OUTPUTSELECT
+OUT <= OUT~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mod14_JK|JK_FF:comb_15
+J => always0~2.IN0
+J => always0~3.IN0
+J => always0~1.IN0
+J => always0~0.IN0
+K => always0~1.IN1
+K => always0~3.IN1
+K => always0~2.IN1
+K => always0~0.IN1
+clk => OUT~reg0.CLK
+clear => OUT~4.OUTPUTSELECT
+OUT <= OUT~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mod14_JK|JK_FF:comb_19
+J => always0~2.IN0
+J => always0~3.IN0
+J => always0~1.IN0
+J => always0~0.IN0
+K => always0~1.IN1
+K => always0~3.IN1
+K => always0~2.IN1
+K => always0~0.IN1
+clk => OUT~reg0.CLK
+clear => OUT~4.OUTPUTSELECT
+OUT <= OUT~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
