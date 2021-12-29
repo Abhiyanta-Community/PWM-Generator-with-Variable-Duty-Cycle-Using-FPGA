@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Abhiyanta\Task3\Modelsim\Eg
+vpwm_5_variation
+Z1 !s100 f6kPZ4D>odhhf^cAoCPPE1
+Z2 I]SI;@b8`B]@1A_meOg[dD0
+Z3 V[`d?[gnT]]OVN]S7GB_4n0
+Z4 dD:\Abhiyanta\Task3\Modelsim\PWM
+Z5 w1616045587
+Z6 8D:/Abhiyanta/Task3/Modelsim/PWM/pwm_uut.v
+Z7 FD:/Abhiyanta/Task3/Modelsim/PWM/pwm_uut.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Abhiyanta/Task3/Modelsim/PWM/pwm_uut.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1616096379.446000
+Z12 !s107 D:/Abhiyanta/Task3/Modelsim/PWM/pwm_uut.v|
+!s101 -O0
+vpwm_tb
+!i10b 1
+Z13 !s100 ITF5mO5LX?2h7X;]1<J[E3
+Z14 I=E^UC8IbED0WTA6C7;zcn0
+Z15 V9N`UQHZbKjRKn56`R?0D00
+R4
+Z16 w1616016443
+Z17 8D:/Abhiyanta/Task3/Modelsim/PWM/pwm_tb.v
+Z18 FD:/Abhiyanta/Task3/Modelsim/PWM/pwm_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1616096379.618000
+!s107 D:/Abhiyanta/Task3/Modelsim/PWM/pwm_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|D:/Abhiyanta/Task3/Modelsim/PWM/pwm_tb.v|
+!s101 -O0
+R10

@@ -1,0 +1,15 @@
+D:/Abhiyanta/Task3/Modelsim/PWM/pwm_uut.v {1 {vlog -work work D:/Abhiyanta/Task3/Modelsim/PWM/pwm_uut.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pwm_5_variation
+
+Top level modules:
+	pwm_5_variation
+
+} {} {}} D:/Abhiyanta/Task3/Modelsim/PWM/pwm_tb.v {1 {vlog -work work D:/Abhiyanta/Task3/Modelsim/PWM/pwm_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pwm_tb
+
+Top level modules:
+	pwm_tb
+
+} {} {}}
