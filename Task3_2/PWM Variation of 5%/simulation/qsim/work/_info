@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Abhiyanta\Task3\PWM Variation of 5%\simulation\qsim
+vpwm_5_variation
+Z1 !s100 im?nJF9<Yj:mzBV<PkjX41
+Z2 IALNem^:Acg]MQ9h92VBF`0
+Z3 V[`d?[gnT]]OVN]S7GB_4n0
+Z4 dD:\Abhiyanta\Task3\PWM Variation of 5%\simulation\qsim
+Z5 w1616045359
+Z6 8pwm_5_variation.vo
+Z7 Fpwm_5_variation.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|pwm_5_variation.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1616045360.298000
+Z12 !s107 pwm_5_variation.vo|
+!s101 -O0
+vpwm_5_variation_vlg_check_tst
+!i10b 1
+Z13 !s100 hHc6nmjN`X`X_=T1An3Fe3
+Z14 IgGJ@cM2c[R4nC713g?i0=2
+Z15 V;Ck]naZ35MeF3DIOI1:8:2
+R4
+Z16 w1616045358
+Z17 8pwm_5_variation.vt
+Z18 Fpwm_5_variation.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1616045360.495000
+Z20 !s107 pwm_5_variation.vt|
+Z21 !s90 -work|work|pwm_5_variation.vt|
+!s101 -O0
+R10
+vpwm_5_variation_vlg_sample_tst
+!i10b 1
+Z22 !s100 k6ac2m@C`^PDSlPJo8MdO0
+Z23 IGgim;f6fBk^OS?DGWGb240
+Z24 Vkj0gV:VSdV]2K8@`X5JOl1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vpwm_5_variation_vlg_vec_tst
+!i10b 1
+!s100 V:9TSE^NlSP<j:zNOYIKb1
+IEm@6kZH9bR[fML543=L]b0
+Z25 Vm8Fk`Pg5j:[3CN68XKEC:3
+R4
+R16
+R17
+R18
+Z26 L0 156
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
