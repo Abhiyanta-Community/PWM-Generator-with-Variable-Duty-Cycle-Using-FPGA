@@ -6,6 +6,7 @@
     Jainam Shah;
     Harsh Maghnani; 
     Siddhpura Hemangi;
+* We are Always Available for Innovators :) Contact us : abhiyanta.ind@gmail.com
 # Overview
 Pulse Width Modulation (PWM) is a very popular modulation technique which is mainly used to control the power delivered to electrical devices such as motors. In this task the team will have to generate pulse width signals using Verilog (Hardware Descriptive Language) and realize its hardware using FPGA.  A field-programmable gate array (FPGA) is an integrated circuit that can be programmed or reprogrammed to the required functionality or application after manufacturing. Important characteristics of field-programmable gate arrays include lower complexity, higher speed, volume designs and programmable functions.
 
